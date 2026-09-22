@@ -92,6 +92,4 @@ It also helps identify the major factors that influence health insurance costs.
 
 The Health Insurance Prediction project demonstrates how Machine Learning and data analysis can be used to analyze insurance data and predict health insurance charges. The project combines data preprocessing, visualization, exploratory analysis, and predictive modeling to provide useful insights into insurance costs.
 
-## Author
 
-**Dharanish**
